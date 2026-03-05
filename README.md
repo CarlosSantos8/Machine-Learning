@@ -1,2 +1,2 @@
 # Machine-Learning
-Repositorio de Machine Learning con R y Python
+Repositorio de Machine Learning e Inteligencia Artificial
